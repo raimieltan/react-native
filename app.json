@@ -1,0 +1,13 @@
+{
+  "name": "MockProject",
+  "displayName": "MockProject",
+  "expo": {
+    "name": "MockProject",
+    "slug": "MockProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": { "permissions": ["ACCESS_BACKGROUND_LOCATION"] }
+  }
+}
